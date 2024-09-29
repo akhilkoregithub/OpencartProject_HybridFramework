@@ -1,0 +1,2 @@
+cd C:\Automation Testing\TestingWorkSpace\HybridFrameworkProject
+mvn test

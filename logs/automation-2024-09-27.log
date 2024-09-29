@@ -1,0 +1,65 @@
+21:39:33.033 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:39:43.043 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:45:48.048 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\master.xml
+
+21:45:54.054 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:45:56.056 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+21:45:56.056 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:46:06.006 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:46:16.016 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:46:26.026 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:54:04.004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\master.xml
+
+21:54:10.010 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:54:12.012 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+21:54:12.012 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:54:22.022 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:54:32.032 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:54:42.042 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:55:23.023 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\master.xml
+
+21:55:29.029 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:55:31.031 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+21:55:31.031 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:55:41.041 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:55:51.051 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+21:56:01.001 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:18:17.017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\src\test\java\testCases\testng.xml
+
+22:19:30.030 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\master.xml
+
+22:19:37.037 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:19:39.039 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+22:19:39.039 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:19:49.049 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:19:59.059 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:20:09.009 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:39:58.058 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\master.xml
+
+22:40:05.005 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:40:07.007 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+22:40:07.007 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:40:17.017 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:40:27.027 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:40:37.037 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:51:42.042 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\master.xml
+
+22:51:47.047 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:51:49.049 [main] INFO  testCases.TC003_LoginDDT - ****** Finished TC_003_LoginDDT ******
+22:51:49.049 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:51:59.059 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:52:09.009 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+22:52:19.019 [main] INFO  testCases.TC003_LoginDDT - ****** Starting TC_003_LoginDDT ******
+15:59:51.051 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\grouping.xml
+
+15:59:58.058 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ****
+15:59:59.059 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:00:01.001 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link

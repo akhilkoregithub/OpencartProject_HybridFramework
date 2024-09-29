@@ -1,0 +1,58 @@
+16:32:17.017 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\master.xml
+
+16:32:21.021 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ****
+16:32:21.021 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:32:22.022 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:32:22.022 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+16:32:25.025 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:32:25.025 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:33:02.002 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\master.xml
+
+16:33:08.008 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ****
+16:33:08.008 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:33:09.009 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:33:09.009 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+16:33:12.012 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:33:12.012 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:33:37.037 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\master.xml
+
+16:33:46.046 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ****
+16:33:46.046 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:33:47.047 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:33:47.047 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+16:33:50.050 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:33:50.050 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:34:14.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\master.xml
+
+16:34:14.014 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ****
+16:34:14.014 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+16:34:49.049 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\master.xml
+
+16:34:52.052 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ****
+16:34:53.053 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:34:53.053 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:34:53.053 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+16:34:57.057 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:34:57.057 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:46:15.015 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\HybridFrameworkProject\crossbrowsertesting.xml
+
+16:46:18.018 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ****
+16:46:19.019 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:46:19.019 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:46:19.019 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+16:46:23.023 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:46:23.023 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:46:26.026 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ****
+16:46:26.026 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:46:27.027 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:46:27.027 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer details...
+16:46:30.030 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message..
+16:46:30.030 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+16:46:37.037 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ****
+16:46:37.037 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
